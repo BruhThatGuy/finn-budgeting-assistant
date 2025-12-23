@@ -1,3 +1,5 @@
 streamlit
 google-genai
 plotly.express
+get_transactions
+dotenv
